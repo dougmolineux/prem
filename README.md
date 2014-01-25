@@ -11,3 +11,6 @@ How to Build & Run
 
 	gcc prem.c cJSON.c -o prem -lm
 	./prem
+Screenshot
+==================
+![](/prem%20screenshot.png)
