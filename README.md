@@ -7,7 +7,6 @@ Written in C. Utilizes API Provider Kimono Labs and the cJSON library to parse t
 
 Tested on CentOS.
 
-==================
 How to Build & Run
 ==================
 
